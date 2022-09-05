@@ -1,2 +1,3 @@
-Printing out Hello, World 
-Using backslash to escape the special characters
+Printing out Hello, World using a bash script
+Printing out the confused smiley face using bash script incoporating escaping of special characters using \
+Input Output Redirection sending the contents of a file psswd to 2-hellofile using cat and >
