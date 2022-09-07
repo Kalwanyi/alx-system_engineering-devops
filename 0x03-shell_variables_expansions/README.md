@@ -2,4 +2,5 @@
 2-path making path the last directory that the shell looks for programs
 3-paths counting the number of directories in PATH
 4-global_variable A script listing all environment variables
-5-local_variables Listing all local and environment variables and functions 
+5-local_variables Listing all local and environment variables and functions
+6-create_local_variable creating a new local variable 
