@@ -5,3 +5,4 @@
 5-local_variables Listing all local and environment variables and functions
 6-create_local_variable creating a new local variable
 7-create_global_variable creating a global variable
+8-true_knowledge script that adds 128 to the value in the variable TRUEKNOWLWDGE
