@@ -7,3 +7,4 @@
 7-create_global_variable creating a global variable
 8-true_knowledge script that adds 128 to the value in the variable TRUEKNOWLWDGE
 9-divide_and_rule A script that prints the result of POWER divided by DIVIDE (which are environment variables)
+10-love_exponent_breath A scfript that prints out the result of breath to the power of love
